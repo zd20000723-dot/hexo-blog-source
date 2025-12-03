@@ -1,38 +1,30 @@
 ---
-title: Hello World
+title: 初次见面，欢迎来到江离的小屋
+date: 2024-06-01 10:00:00
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+欢迎来到 **江离的小屋**！这里会记录生活中的点滴灵感、技术实验以及偶尔的随笔，希望与你分享那些有趣的小发现。
 
-### Create a new post
+## 这里会写些什么
+- 日常生活的随想与小感悟
+- 编程学习笔记和工具分享
+- 书影音的短评和推荐
 
-``` bash
-$ hexo new "My New Post"
+## 如何与我交流
+如果你有想聊的话题或建议，欢迎在文章下方留言，或者通过站点的社交链接找到我。你的每一条留言都是让我继续写下去的动力！
+
+## 想开始写博客？
+如果你也想搭建自己的博客，可以试试 Hexo：
+
+```bash
+# 创建新文章
+hexo new "我的第一篇文章"
+
+# 本地预览
+hexo server
+
+# 生成静态文件
+hexo generate
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+祝你在这里阅读愉快，也期待与你在评论区相遇！

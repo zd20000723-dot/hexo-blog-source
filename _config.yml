@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: "江离的小屋"
 subtitle: ''
-description: ''
+description: '分享生活随笔与技术探索的温馨角落'
 keywords:
-author: John Doe
-language: en
+author: 江离
+language: zh-CN
 timezone: ''
 
 # URL
